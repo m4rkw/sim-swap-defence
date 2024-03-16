@@ -23,7 +23,7 @@ realise what's happened your accounts may have already been compromised.
 
 Mobile carriers should have reasonably decent practices to prevent sim-swaps,
 such as account verification and additional checks when a sim-swap is requested.
-However this isn't bulletproof and they do still occur. It's been know for
+However this isn't bulletproof and they do still occur. It's been known for
 sim-swap attacks to be carried out with the help of an insider.
 
 ## Mitigating a sim-swap attack
