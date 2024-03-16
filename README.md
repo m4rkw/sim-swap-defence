@@ -30,7 +30,7 @@ sim-swap attacks to be carried out with the help of an insider.
 
 These are some ways to mitigate a sim-swap attack.
 
-Option 0: Don't use SMS 2FA
+### Option 0: Don't use SMS 2FA
 
 The first option should always be to try to avoid any form of SMS 2FA. For
 clarity you should always have *some* kind of 2FA, even if SMS is the only
@@ -39,7 +39,7 @@ use TOTP, FIDO keys and/or backup codes. It should be noted that a phone
 backup option is just as vulnerable as an SMS option if the number is taken
 over.
 
-Option 1: Get a second sim (ideally an e-sim) to use for OTP codes.
+### Option 1: Get a second sim (ideally an e-sim) to use for OTP codes.
 
 Don't give the number to anyone except the services that you need to keep secure.
 Attackers trying to compromise your accounts with a sim-swap will typically get
@@ -63,7 +63,7 @@ Cons:
   cheaper local data service while roaming
 - If the number of the OTP sim were discovered an attack could still succeed
 
-Option 2: Use a virtual mobile number to forward OTP codes
+### Option 2: Use a virtual mobile number to forward OTP codes
 
 This is in my opinion the better option however it costs money and effort to
 set up. The basic premise is that you rent a "virtual" mobile number from a
